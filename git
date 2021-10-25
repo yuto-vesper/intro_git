@@ -1,0 +1,37 @@
+[33mcommit 0146dded0ee92fbc658da883341957465dd38c52[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 10:26:28 2021 +0900
+
+    git status commit
+
+[33mcommit b3ddbf2acbbe5a3db746570686b5b2f6f0e623cf[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 09:55:37 2021 +0900
+
+    複数ファイルのコミット
+
+[33mcommit 8694a944208468013af3e7984af03b669e8bc8f3[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 09:53:31 2021 +0900
+
+    second.txtの削除
+
+[33mcommit a0b6bee1c75b218f8526348b1aba6b2f10956236[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 09:51:05 2021 +0900
+
+    second.txtは追加しました。
+
+[33mcommit 43b8b5425e9ab37b3ec0ba702b020b8fce9140f7[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 09:48:47 2021 +0900
+
+    add, commitのコマンドを追記
+    
+    練習2回目の為。
+
+[33mcommit 9e8fde7e5d768d0234fbeaaf7e838bb704122cd4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yuto-vesper <yuuto.nakanishi@shisa-net.com>
+Date:   Mon Oct 25 09:36:05 2021 +0900
+
+    initial commit
